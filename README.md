@@ -1,4 +1,4 @@
-# viewModel Code Generator
+# ViewModel Code Generator
 
 Boilerplate generator for viewModel
 
